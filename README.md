@@ -1,6 +1,10 @@
 # Forge Reliability
 
 ## Papers
+
+### [SELFCHECKGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/pdf/2303.08896.pdf)
+#### [Code](https://arxiv.org/pdf/2303.08896.pdf) 
+
 ### [Measuring Reliability of Large Language Models through Semantic Consistency](https://arxiv.org/abs/2211.05853)
 
 ### [Hallucination Detection: Robustly Discerning Reliable Answers in Large Language Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614905)
